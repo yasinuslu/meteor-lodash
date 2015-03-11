@@ -1,6 +1,6 @@
 Exports lodash to global
 
-Package version will follow lodash version included.
+Package version will follow version of lodash shipped with the package.
 ```
 Current lodash: '3.2.0'
 ```
